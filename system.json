@@ -4,15 +4,15 @@
   "description": "An Unnoficial Old Dragon 2 system for FoundryVTT!",
   "version": "1.2.0",
   "compatibility": {
-    "minimum": 10,
-    "verified": "10.287",
-    "maximum": 10
+    "minimum": 11,
+    "verified": "11.306",
+    "maximum": 11
   },
   "authors": [{
-    "name": "Asacolips"
+    "name": "Alessandro Dias"
   }],
-  "esmodules": ["module/boilerplate.mjs"],
-  "styles": ["css/boilerplate.css"],
+  "esmodules": ["module/od2-fvtt-unnoficial.mjs"],
+  "styles": ["css/od2-fvtt-unnoficial.css"],
   "scripts": [],
   "packs": [],
   "languages": [

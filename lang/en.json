@@ -1,22 +1,22 @@
 {
-  "BOILERPLATE.AbilityStr": "Strength",
-  "BOILERPLATE.AbilityCon": "Constitution",
-  "BOILERPLATE.AbilityDex": "Dexterity",
-  "BOILERPLATE.AbilityInt": "Intelligence",
-  "BOILERPLATE.AbilityWis": "Wisdom",
-  "BOILERPLATE.AbilityCha": "Charisma",
+  "od2-fvtt-unnoficial.AbilityStr": "Strength",
+  "od2-fvtt-unnoficial.AbilityCon": "Constitution",
+  "od2-fvtt-unnoficial.AbilityDex": "Dexterity",
+  "od2-fvtt-unnoficial.AbilityInt": "Intelligence",
+  "od2-fvtt-unnoficial.AbilityWis": "Wisdom",
+  "od2-fvtt-unnoficial.AbilityCha": "Charisma",
 
-  "BOILERPLATE.AbilityStrAbbr": "str",
-  "BOILERPLATE.AbilityConAbbr": "con",
-  "BOILERPLATE.AbilityDexAbbr": "dex",
-  "BOILERPLATE.AbilityIntAbbr": "int",
-  "BOILERPLATE.AbilityWisAbbr": "wis",
-  "BOILERPLATE.AbilityChaAbbr": "cha",
+  "od2-fvtt-unnoficial.AbilityStrAbbr": "str",
+  "od2-fvtt-unnoficial.AbilityConAbbr": "con",
+  "od2-fvtt-unnoficial.AbilityDexAbbr": "dex",
+  "od2-fvtt-unnoficial.AbilityIntAbbr": "int",
+  "od2-fvtt-unnoficial.AbilityWisAbbr": "wis",
+  "od2-fvtt-unnoficial.AbilityChaAbbr": "cha",
 
-  "BOILERPLATE.EffectCreate": "Create Effect",
-  "BOILERPLATE.EffectToggle": "Toggle Effect",
-  "BOILERPLATE.EffectEdit": "Edit Effect",
-  "BOILERPLATE.EffectDelete": "Delete Effect",
+  "od2-fvtt-unnoficial.EffectCreate": "Create Effect",
+  "od2-fvtt-unnoficial.EffectToggle": "Toggle Effect",
+  "od2-fvtt-unnoficial.EffectEdit": "Edit Effect",
+  "od2-fvtt-unnoficial.EffectDelete": "Delete Effect",
 
-  "BOILERPLATE.Add": "Add"
+  "od2-fvtt-unnoficial.Add": "Add"
 }

@@ -1,23 +1,23 @@
-export const BOILERPLATE = {};
+export const od2-fvtt-unnoficial = {};
 
 /**
  * The set of Ability Scores used within the sytem.
  * @type {Object}
  */
- BOILERPLATE.abilities = {
-  "str": "BOILERPLATE.AbilityStr",
-  "dex": "BOILERPLATE.AbilityDex",
-  "con": "BOILERPLATE.AbilityCon",
-  "int": "BOILERPLATE.AbilityInt",
-  "wis": "BOILERPLATE.AbilityWis",
-  "cha": "BOILERPLATE.AbilityCha"
+ od2-fvtt-unnoficial.abilities = {
+  "str": "od2-fvtt-unnoficial.AbilityStr",
+  "dex": "od2-fvtt-unnoficial.AbilityDex",
+  "con": "od2-fvtt-unnoficial.AbilityCon",
+  "int": "od2-fvtt-unnoficial.AbilityInt",
+  "wis": "od2-fvtt-unnoficial.AbilityWis",
+  "cha": "od2-fvtt-unnoficial.AbilityCha"
 };
 
-BOILERPLATE.abilityAbbreviations = {
-  "str": "BOILERPLATE.AbilityStrAbbr",
-  "dex": "BOILERPLATE.AbilityDexAbbr",
-  "con": "BOILERPLATE.AbilityConAbbr",
-  "int": "BOILERPLATE.AbilityIntAbbr",
-  "wis": "BOILERPLATE.AbilityWisAbbr",
-  "cha": "BOILERPLATE.AbilityChaAbbr"
+od2-fvtt-unnoficial.abilityAbbreviations = {
+  "str": "od2-fvtt-unnoficial.AbilityStrAbbr",
+  "dex": "od2-fvtt-unnoficial.AbilityDexAbbr",
+  "con": "od2-fvtt-unnoficial.AbilityConAbbr",
+  "int": "od2-fvtt-unnoficial.AbilityIntAbbr",
+  "wis": "od2-fvtt-unnoficial.AbilityWisAbbr",
+  "cha": "od2-fvtt-unnoficial.AbilityChaAbbr"
 };
